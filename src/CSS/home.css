@@ -1,0 +1,45 @@
+
+#home_bg{
+    background-image: url("../img33.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 560px;
+    width: 100%;
+    
+}
+
+
+.header-text {
+    font-size: 30px;
+    padding-top: 15%;
+    padding-left: 9%;
+    
+}
+
+.header-text h1 {
+    font-size: 60px;
+    margin-top: 20px;
+    color: white;
+}
+
+.header-text p {
+    
+   
+   
+    color: #ff004f; }
+.header-text h1 span {
+    color: #ff004f;
+}
+
+@media screen and (max-width: 600px) {
+ 
+    #home_bg{
+       
+        height: 780px;
+        width: 100%;
+        
+    }
+    
+   
+    
+      }

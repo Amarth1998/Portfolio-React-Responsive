@@ -1,0 +1,167 @@
+#container{  
+    height: 560px;
+    width: 100%;
+    display: flex;
+    background-color: black;
+    
+  }
+
+  #container1{  
+    height: 500px;
+    width: 35%;
+    border-radius: 30px;
+    margin-top: 3.5%;
+    margin-left:1.5%;
+
+    background-image: url("../about.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    border: 2px solid  #ff004f;
+    
+  }
+
+  #container2{  
+    height: 600px;
+    width: 65%;
+   
+  }
+
+
+
+  #container2_1{
+    height: 320px;
+    width: 65%;
+    margin-top: 40px;
+    margin-left: 10%;
+  }
+  
+
+  #container2_1 h1 {
+    color: #ff004f;
+    font-size: 50px;
+  }
+
+  #container2_1 p {
+    margin-top: 10px;
+    font-size: 18px;
+    color: white;
+  }
+ #list_link ul li{
+    float: left;
+    list-style-type: none;
+    color: white;
+    font-size: 25px;
+   
+  }
+#list_link ul li a{
+  color: #ff004f;
+}
+
+  #list_link{
+    color: #ff004f;
+    margin-top: 10px;
+  }
+
+
+  .linkk{
+    text-decoration: none;
+  }
+
+#list_link ul li:hover{
+    text-decoration: underline ;
+    color: #ff004f;
+  }
+
+ #list_link ul li:active{
+    text-decoration: underline ;
+    color: #ff004f;
+  }
+
+#container2_2{
+  height: 200px;
+    width: 65%;
+    
+ margin-left: 10%;
+  
+}
+
+
+/* skills css */
+
+#skills ul li  {
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 18px;
+  padding: 5px;
+  color: white;
+
+}
+
+
+#experience ul li {
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 18px;
+  padding: 5px;
+  color: white;
+}
+
+#education ul li {
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 18px;
+  padding: 5px;
+  color: white;
+}
+
+
+@media screen and (max-width: 600px) {
+ 
+  #container{  
+    height: 1250px;
+    display: inline-block;
+    
+  }
+
+  #container1{  
+    height: 500px;
+    width: 95%;
+    margin-top: 4%;
+    margin-left:2%;
+  }
+
+   
+
+  #container2{  
+    height: 600px;
+    width: 95%;
+
+  }
+
+
+
+   #container2_1{
+   
+    width: 95%;
+    margin-top: 40px;
+   
+  } 
+
+  #container2_2{
+    height: 200px;
+      width: 95%;
+      
+   margin-left: 10%;
+   margin-top: 40%;
+    
+  }
+/*   
+  #list_link{
+    width: 95%;
+    height: 100px;
+    margin-top: 50%;
+  } */
+
+
+}
