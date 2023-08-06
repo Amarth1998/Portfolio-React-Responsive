@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/amarth/static/css/main.82541548.css",
-    "main.js": "/amarth/static/js/main.e0a85d81.js",
+    "main.js": "/amarth/static/js/main.5b8c30e0.js",
     "static/media/about.jpg": "/amarth/static/media/about.d2026ac2530e080839c0.jpg",
     "static/media/pp1.jpeg": "/amarth/static/media/pp1.2f26da25031f435ff4f3.jpeg",
     "static/media/img33.webp": "/amarth/static/media/img33.90bd13fd2b717f11867e.webp",
     "index.html": "/amarth/index.html",
     "main.82541548.css.map": "/amarth/static/css/main.82541548.css.map",
-    "main.e0a85d81.js.map": "/amarth/static/js/main.e0a85d81.js.map"
+    "main.5b8c30e0.js.map": "/amarth/static/js/main.5b8c30e0.js.map"
   },
   "entrypoints": [
     "static/css/main.82541548.css",
-    "static/js/main.e0a85d81.js"
+    "static/js/main.5b8c30e0.js"
   ]
 }
